@@ -1,0 +1,28 @@
+{
+    "name": "sergechurkin/redisaggregate",
+    "description": "Test example for use Redis on PHP to realise strong report as a WEB application.",
+    "keywords": ["Redis", "PHP", "aggregate", "report", "git tag 1.1-dev"],
+    "type": "report",
+    "license": "BSD-3-Clause",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "require-dev": {
+        "php": ">=5.4.0",
+        "sergechurkin/cform": "1.1.x-dev"
+    },
+    "support": {
+        "issues": "https://github.com/sergechurkin/redisaggregate/issues",
+        "source": "https://github.com/sergechurkin/redisaggregate"
+    },
+    "authors": [
+        {
+            "name": "sergechurkin",
+            "email": "s-churkin@yandex.ru"
+        }
+    ],
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.1.x-dev"
+        }
+    }
+}
